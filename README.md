@@ -1,2 +1,5 @@
 # delta-demo
-This a demo of using github
+This is a demo of using github
+
+# Student
+Talal
